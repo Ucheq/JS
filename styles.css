@@ -11,3 +11,8 @@
   padding: 40px;
   width: 50%;
 }
+
+.paragraph {
+  border-radius: 10px solid blue;
+  padding: 10px;
+}
